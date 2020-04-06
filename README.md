@@ -6,7 +6,10 @@ tutorial: https://machinelearningmastery.com/how-to-train-an-object-detection-mo
 used labelme to label rice: https://github.com/wkentaro/labelme
 
 ### Dependencies:
-matterport/Mask_RCNN: https://github.com/matterport/Mask_RCNN#installation (this repo doesn't work with tensorflow 2.0, using 1.14 for this project)
+matterport/Mask_RCNN: https://github.com/matterport/Mask_RCNN#installation
+tensorflow == 1.14
+keras == 2.1.0
+
 
 ### Setup:
 `python3 -m venv riceEnv`

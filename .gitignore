@@ -1,0 +1,8 @@
+Mask_RCNN/
+training/
+imgs/
+envrice/
+other/
+rice_quality_info.docx
+*/
+*.h5
